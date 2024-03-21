@@ -1,5 +1,5 @@
 # Egis Security
-![Egis Security Banner](egis_photo.png)
+![Egis Security Banner](egis_security.png)
 
 ---
 
