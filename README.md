@@ -1,7 +1,7 @@
-# Egis Security
-![Egis Security Banner](egis_security.png)
 
----
+<p align="center">
+    <img src="egis_security.png" alt="Egis Security Banner">
+</p>
 
 ## Team Members
 
