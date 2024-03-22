@@ -1,32 +1,33 @@
 
 <p align="center">
-    <img src="egis_security.png" alt="Egis Security Banner">
+    <img src="BackgroundLogoFixedBebas70TS.png" alt="Egis Security Banner">
 </p>
 
-## Team Members
+## About us
+
+We are a team of experencied smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols. 
+
+Both members of Egis Security have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 80 High/Medium severity vulnerabilities, with multiple 2nd, 5th and 10th place finishes.
+
+## Book us
+
+If you are looking for experienced smart contract auditors to secure your protocol, you can contact us at:
+
+- **Twitter** [deth](https://twitter.com/dethSCA)/[nmirchev8](https://twitter.com/nmirchev8)
+- **Telegram** [telegram links here]
+- **Discrod** [discord links here]
+
+We offer both fixed pay and pay-per-vulnerability security reviews.
 
 ### [nmirchev8](https://twitter.com/nmirchev8) - Security Researcher
 
-nmirchev8 is a smart contract security researcher with expertise in solidity manual audits. He has contributed secure various protocols through public contests, participated as a researcher in reviews with firms such as Guardian Audits and has conducted solo audits for projects.
-
-#### Recent Work
-
-- Participated as security researcher with Guardian Audits
-- Participated in many public contests. Multiple top 10 rankings.
-- Conducted a few solo audits.
+nmirchev8 is an experienced smart contract security researcher, who has contributed to the security of various protocols through public contests, private security reviews with firms such as Guardian Audits and has conducted several solo audits.
 
 ---
 
 ### [deth](https://twitter.com/dethSCA) - Security Researcher
 
-nmirchev8 is a smart contract security researcher with expertise in solidity manual audits. He has contributed secure various protocols through public contests, participated as a researcher in reviews with firms such as Guardian Audits and has conducted solo audits for projects.
-
-
-#### Recent Work
-
-- Led a successful investigation into a sophisticated ransomware attack on a Fortune 500 company.
-- Succesfull bug hunter with multiple bounties
-- Collaborated with law enforcement agencies to dismantle a cybercrime syndicate.
+deth has a proven track record on public contests with multiple top place finishes on both Code4rena, Sherlock and Codehawks. He has reported several live security vulnerabilites on both Immunefi and Hats.
 
 ---
 
@@ -49,19 +50,3 @@ nmirchev8 is a smart contract security researcher with expertise in solidity man
 | [DeFi Stablecoin CodeHawks - 2M, 2L - 07.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/stablecoin.md) | [Defi Stablecoin Codehawks - 1M - 07.2023](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
 
 
-
-
-#### Key Features
-
-- End-to-end high quality manual review.
-- PPV (pay-per-vulnerability) model with fixed base pay.
-- Free initial review + mitigation call after the audit
-
-
-## Contact Us
-
-Thank you for exploring our portfolio! If you have any inquiries or collaboration opportunities, feel free to reach out to us:
-
-- ** Telegram:** []
-
-We look forward to hearing from you!
