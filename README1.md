@@ -5,29 +5,28 @@
 
 ## About us
 
-We are a team of experencied smart contract researchers, with 
+We are a team of experencied smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols. 
+
+Both members of Egis Security have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks.
+
+## Book us
+
+If you are looking for experienced smart contract auditors to secure your protocol, you can contact us at:
+- **Twitter** [deth](https://twitter.com/dethSCA)/[nmirchev8](https://twitter.com/nmirchev8)
+- **Telegram** [telegram links here]
+- **Discrod** [discord links here]
+
+We look forward to hearing from you!
 
 ### [nmirchev8](https://twitter.com/nmirchev8) - Security Researcher
 
 nmirchev8 is an experienced smart contract security researcher, who has contributed to the security of various protocols through public contests, private security reviews with firms such as Guardian Audits and has conducted several solo audits.
 
-#### Recent Work
-
-- Participated as security researcher with Guardian Audits
-- Participated in many public contests. Multiple top 10 rankings.
-- Conducted a few solo audits.
-
 ---
 
 ### [deth](https://twitter.com/dethSCA) - Security Researcher
 
-deth has a proven track record of multiple top place finishes on contests on both Code4rena, Sherlock and Codehawks. He has reported several live security vulnerabilites on both Immunefi and Hats.
-
-#### Recent Work
-
-- Led a successful investigation into a sophisticated ransomware attack on a Fortune 500 company.
-- Succesfull bug hunter with multiple bounties
-- Collaborated with law enforcement agencies to dismantle a cybercrime syndicate.
+deth has a proven track record on public contests with multiple top place finishes on both Code4rena, Sherlock and Codehawks. He has reported several live security vulnerabilites on both Immunefi and Hats.
 
 ---
 
@@ -50,9 +49,7 @@ deth has a proven track record of multiple top place finishes on contests on bot
 | [DeFi Stablecoin CodeHawks - 2M, 2L - 07.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/stablecoin.md) | [Defi Stablecoin Codehawks - 1M - 07.2023](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
 
 
-
-
-#### Key Features
+#### Services
 
 - End-to-end high quality manual review.
 - PPV (pay-per-vulnerability) model with fixed base pay.
@@ -61,8 +58,4 @@ deth has a proven track record of multiple top place finishes on contests on bot
 
 ## Contact Us
 
-Thank you for exploring our portfolio! If you have any inquiries or collaboration opportunities, feel free to reach out to us:
 
-- ** Telegram:** []
-
-We look forward to hearing from you!
