@@ -12,11 +12,12 @@ Both members of Egis Security have a proven track record on public auditing plat
 ## Book us
 
 If you are looking for experienced smart contract auditors to secure your protocol, you can contact us at:
+
 - **Twitter** [deth](https://twitter.com/dethSCA)/[nmirchev8](https://twitter.com/nmirchev8)
 - **Telegram** [telegram links here]
 - **Discrod** [discord links here]
 
-We look forward to hearing from you!
+We offer both fixed pay and pay-per-vulnerability security reviews.
 
 ### [nmirchev8](https://twitter.com/nmirchev8) - Security Researcher
 
@@ -47,15 +48,5 @@ deth has a proven track record on public contests with multiple top place finish
 | [SparkN - 1H, 1M, 2L - 08.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/sparkn.md) | [BeedleFi - 4H, 4M - 08.2023](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
 | [BeedleFi - 2H, 2L - 07.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/beedlefi.md) | [Escrow Contract - 1M - 07.2023](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
 | [DeFi Stablecoin CodeHawks - 2M, 2L - 07.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/stablecoin.md) | [Defi Stablecoin Codehawks - 1M - 07.2023](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
-
-
-#### Services
-
-- End-to-end high quality manual review.
-- PPV (pay-per-vulnerability) model with fixed base pay.
-- Free initial review + mitigation call after the audit
-
-
-## Contact Us
 
 
