@@ -5,9 +5,9 @@
 
 ## About us
 
-We are a team of experencied smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols. 
+We are a team of experienced smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols.
 
-Both members of Egis Security have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 80 High/Medium severity vulnerabilities, with multiple 2nd, 5th and 10th place finishes.
+Both members of Egis Security have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 80 High/Medium severity vulnerabilities, with multiple 2nd, 5th, and 10th place finishes.
 
 ## Book us
 
