@@ -13,9 +13,9 @@ Both members of Egis Security have a proven track record on public auditing plat
 
 If you are looking for experienced smart contract auditors to secure your protocol, you can contact us at:
 
-- **Twitter** [deth](https://twitter.com/dethSCA)/[nmirchev8](https://twitter.com/nmirchev8)
-- **Telegram** [telegram links here]
-- **Discrod** [discord links here]
+- [**Twitter**](https://twitter.com/dethSCA)
+- [**Telegram**](https://t.me/dethSCA)
+- [**Discrod**](https://discordapp.com/users/348387992974393355)
 
 We offer both fixed pay and pay-per-vulnerability security reviews.
 
