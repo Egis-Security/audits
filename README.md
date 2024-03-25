@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="egis_security1.png" alt="Egis Security Banner">
+    <img src="egis_sec_banner.png" alt="Egis Security Banner">
 </p>
 
 ## About us
