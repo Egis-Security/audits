@@ -33,8 +33,8 @@ deth has a proven track record on public contests with multiple top place finish
 
 | nmirchev8 | deth |
 |-----------------------|-----------------------|
-| [MorpheusAI - 1H - 02.2024](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/morpheusAi.md) | [Arcadia - 1H - 02.2023](https://audits.sherlock.xyz/contests/137) |
-| [Decent - 2H, 2M - 01.2024](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/decent.md) | [Decent - 3H, 1M - 01.2023](https://code4rena.com/audits/2024-01-decent#top) |
+| [MorpheusAI - 1H - 02.2024](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/morpheusAi.md) | [Arcadia - 1H - 02.2024](https://audits.sherlock.xyz/contests/137) |
+| [Decent - 2H, 2M - 01.2024](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/decent.md) | [Decent - 3H, 1M - 01.2024](https://code4rena.com/audits/2024-01-decent#top) |
 | [Opus - 1H - 01.2024](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/opus.md) | [Ethereum Credit Guild - 1M - 12.2023](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) |
 | [The Standard - 2M, 1L - 12.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/theStandard.md) | [Revolution - 6M, 12.2023](https://code4rena.com/audits/2023-12-revolution-protocol#top) |
 | [Revolution - 4M - 12.2023](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/revolution.md) | [Kelp DAO - 1H, 2M - 11.2023](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) |
