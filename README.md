@@ -21,13 +21,20 @@ We offer both fixed pay and pay-per-vulnerability security reviews.
 
 ### [nmirchev8](https://twitter.com/nmirchev8) - Security Researcher
 
-nmirchev8 is an experienced smart contract security researcher, who has contributed to the security of various protocols through public contests, private security reviews with firms such as Guardian Audits and has conducted several solo audits.
+nmirchev8 is an experienced smart contract security researcher, who has contributed to the security of various protocols through public contests, and private security reviews with firms such as Guardian Audits and has conducted several solo audits.
 
 ---
 
 ### [deth](https://twitter.com/dethSCA) - Security Researcher
 
-deth has a proven track record on public contests with multiple top place finishes on both Code4rena, Sherlock and Codehawks. He has reported several live security vulnerabilites on both Immunefi and Hats.
+deth has a proven track record in public contests with multiple top place finishes on both Code4rena, Sherlock, and Codehawks. He has reported several live security vulnerabilities on both Immunefi and Hats.
+
+---
+
+## Our Work
+| Date      | Vulnerabilities                   | Report                                  | Protocol Type |
+|-----------|-----------------------------------|-----------------------------------------|---------------|
+| 03.2024   | 1H , 3M , 2L |[Lambdalf ERC Ethereum Contracts](./reports/Lambdalf-contracts.pdf) | ERC721, ERC 1155 library | 
 
 ---
 
