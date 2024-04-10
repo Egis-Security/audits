@@ -34,7 +34,7 @@ deth has a proven track record in public contests with multiple top place finish
 ## Our Work
 | Date      | Vulnerabilities                   | Report                                  | Protocol Type |
 |-----------|-----------------------------------|-----------------------------------------|---------------|
-| 04.2024   | 4C , 1H, 1M , 1L |[Trotel Coin V1](./reports/trotel-coin-v1.pdf) | Game-fi, Staking | 
+| 04.2024   | 4C , 1H, 1M , 1L |[Trotel Coin V1](./reports/Trotel-coin-v1.pdf) | Game-fi, Staking | 
 | 03.2024   | 1H , 3M , 2L |[Lambdalf ERC Ethereum Contracts](./reports/Lambdalf-contracts.pdf) | ERC721, ERC1155 library | 
 
 ---
