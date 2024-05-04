@@ -1,5 +1,4 @@
-## Severity
-Medium
+# Medium
 
 ## Full title
 
