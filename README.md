@@ -44,10 +44,10 @@ deth has a proven track record in public contests with multiple top place finish
 | Protocol | Type | Findings | Report | Date | Competition Platform | More Details |
 |----------|------|-------------|-----------|------|------|------|
 | [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)| SocialFi | Soon | [Soon]()| 03.2024| Cantina | |
-| [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | Cross-chain Governance | 1M | [Open](./reports/competitions/venus.md)| 04.2024| Cantina |🥈 100% H/M found |
+| [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | Cross-chain Governance | 1M | [Open](./reports/competitions/venus.md)| 04.2024| Cantina |🥈 place, 100% H/M found |
 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) | Stablecoin | Soon | [Soon]()| 04.2024| Code4arena| |
 | [Teller](https://audits.sherlock.xyz/contests/295) | Lending/Borrowing | Soon | [Soon]()| 04.2024| Sherlock| |
-| [Posseum]() | Yield | 1H, 1L | [Open](./reports/competitions/posseum.md)| 04.2024| Sheldify | 🥈 |
+| [Posseum]() | Yield | 1H, 1L | [Open](./reports/competitions/posseum.md)| 04.2024| Sheldify | 🥈 place|
 
 
 ### Members Achievments
