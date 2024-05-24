@@ -7,7 +7,7 @@
 
 We are a team of experienced smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols.
 
-Both members of [Egis Security](https://twitter.com/EgisSec) have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 100 High/Medium severity vulnerabilities, with ~$45,000 in winnings.
+Both members of [Egis Security](https://twitter.com/EgisSec) have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 100 High/Medium severity vulnerabilities, with >50,000 in winnings.
 
 ## Book us
 
@@ -50,7 +50,7 @@ deth has a proven track record in public contests with multiple top place finish
 | 5.  | 04.2024 | [Posseum](https://x.com/ShieldifySec/status/1788133361917034993) | 1H, 1L | [Open](./reports/competitions/posseum.md) | Yield |   Sheldify | 🥈 place|
 | 4. | 04.2024 | [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | 1M | [Open](./reports/competitions/venus.md)| Cross-chain Governance | Cantina |🥈 place, 100% H/M found |
 | 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  Soon | [Soon]() | Stablecoin | Code4arena| |
-| 2. | 04.2024 | [Teller](https://audits.sherlock.xyz/contests/295) | 10H, 6M | [Open](https://audits.sherlock.xyz/contests/295/report)| Lending/Borrowing | Sherlock| 🥇 place |
+| 2. | 04.2024 | [Teller](https://audits.sherlock.xyz/contests/295) | 10H, 6M | [Open](https://audits.sherlock.xyz/contests/295/report)| Lending/Borrowing | Sherlock| 🥇 place 10/12 H's found |
 | 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  Soon | [Soon]() | SocialFi | Cantina | |
 
 
