@@ -43,15 +43,18 @@ deth has a proven track record in public contests with multiple top place finish
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
+| 12. | 05.2024 | [Beefy](https://audits.sherlock.xyz/contests/303) | Soon | [Soon]() | CL strategy |  Sherlock | |
+| 11.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | Soon | [Soon]() | Token Distribution |  Code Hawks | |
+| 10. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | Soon | [Soon]() | Staking |  Sherlock | |
 | 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | Soon | [Soon](./reports/competitions/sophon.md) | Staking/Farming |  Sherlock | |
 | 8.  | 05.2024 | [Optimism](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Soon | [Soon](./reports/competitions/optimism.md) | Gnosis Safe Integration |  Cantina | |
-| 7.  | 05.2024 | [Ion](https://x.com/ShieldifySec/status/1785231013376876595) | 1M | [Open](./reports/competitions/ion.md) | Lending/Borrowing |   Sheldify | |
-| 6.  | 05.2024 | [Convergence](https://x.com/ShieldifySec/status/1788133361917034993) | Soon | [Soon](./reports/competitions/convergence.md) | Yield, Staking |   Hats Finance | |
+| 7.  | 05.2024 | [Ion](https://x.com/ShieldifySec/status/1785231013376876595) | 1M | [Open](./reports/competitions/ion.md) | Lending/Borrowing |   Sheldify | 🥇 place, the only valid M |
+| 6.  | 05.2024 | [Convergence](https://x.com/ShieldifySec/status/1788133361917034993) | 1M, 1L | [Soon](./reports/competitions/convergence.md) | Yield, Staking |   Hats Finance | 🥇 place|
 | 5.  | 04.2024 | [Posseum](https://x.com/ShieldifySec/status/1788133361917034993) | 1H, 1L | [Open](./reports/competitions/posseum.md) | Yield |   Sheldify | 🥈 place|
 | 4. | 04.2024 | [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | 1M | [Open](./reports/competitions/venus.md)| Cross-chain Governance | Cantina |🥈 place, 100% H/M found |
-| 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  Soon | [Soon]() | Stablecoin | Code4arena| |
+| 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  5H, 5M | [Soon]() | Stablecoin | Code4arena| |
 | 2. | 04.2024 | [Teller](https://audits.sherlock.xyz/contests/295) | 10H, 6M | [Open](https://audits.sherlock.xyz/contests/295/report)| Lending/Borrowing | Sherlock| 🥇 place 10/12 H's found |
-| 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  Soon | [Soon]() | SocialFi | Cantina | |
+| 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | |
 
 
 ### Members Individual Work
