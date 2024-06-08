@@ -43,6 +43,7 @@ deth has a proven track record in public contests with multiple top place finish
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
+| 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
 | 12. | 05.2024 | [Beefy](https://audits.sherlock.xyz/contests/303) | Soon | [Soon]() | CL strategy |  Sherlock | |
 | 11.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | Soon | [Soon]() | Token Distribution |  Code Hawks | |
 | 10. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | Soon | [Soon]() | Staking |  Sherlock | |
@@ -54,7 +55,7 @@ deth has a proven track record in public contests with multiple top place finish
 | 4. | 04.2024 | [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | 1M | [Open](./reports/competitions/venus.md)| Cross-chain Governance | Cantina |🥈 place, 100% H/M found |
 | 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  5H, 5M | [Soon]() | Stablecoin | Code4arena| |
 | 2. | 04.2024 | [Teller](https://audits.sherlock.xyz/contests/295) | 10H, 6M | [Open](https://audits.sherlock.xyz/contests/295/report)| Lending/Borrowing | Sherlock| 🥇 place 10/12 H's found |
-| 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | |
+| 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | 4th place|
 
 
 ### Members Individual Work
