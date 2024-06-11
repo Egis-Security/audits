@@ -43,11 +43,12 @@ deth has a proven track record in public contests with multiple top place finish
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-| 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
-| 12. | 05.2024 | [Beefy](https://audits.sherlock.xyz/contests/303) | Soon | [Soon]() | CL strategy |  Sherlock | |
-| 11.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | Soon | [Soon]() | Token Distribution |  Code Hawks | |
-| 10. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | Soon | [Soon]() | Staking |  Sherlock | |
-| 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | Soon | [Soon](./reports/competitions/sophon.md) | Staking/Farming |  Sherlock | |
+| 14. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
+| 13. | 05.2024 | [Beefy](https://audits.sherlock.xyz/contests/303) | Soon | [Soon]() | CL strategy |  Sherlock | |
+| 12.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | Soon | [Soon]() | Token Distribution |  Code Hawks | |
+| 11. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | 1M | [Soon]() | Staking |  Sherlock | 🥉 place |
+| 10.  | 05.2024 | [Аave](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | 1 L | [Soon](./reports/competitions/aave.md) | 3.1 update |  Cantina | Top 10 |
+| 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | 2H, 1M | [Soon](./reports/competitions/sophon.md) | Staking/Farming |  Sherlock |🥇 place |
 | 8.  | 05.2024 | [Optimism](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | Soon | [Soon](./reports/competitions/optimism.md) | Gnosis Safe Integration |  Cantina | |
 | 7.  | 05.2024 | [Ion](https://x.com/ShieldifySec/status/1785231013376876595) | 1M | [Open](./reports/competitions/ion.md) | Lending/Borrowing |   Sheldify | 🥇 place, the only valid M |
 | 6.  | 05.2024 | [Convergence](https://x.com/ShieldifySec/status/1788133361917034993) | 1M, 1L | [Soon](./reports/competitions/convergence.md) | Yield, Staking |   Hats Finance | 🥇 place|
