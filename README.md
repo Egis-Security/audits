@@ -51,7 +51,7 @@ deth has a proven track record in public contests with multiple top place finish
 | 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | 2H, 1M | [Soon](./reports/competitions/sophon.md) | Staking/Farming |  Sherlock |🥇 place |
 | 8.  | 05.2024 | [Optimism](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | 2 М | [Soon](./reports/competitions/optimism.md) | Gnosis Safe Integration |  Cantina | Тop 10 |
 | 7.  | 05.2024 | [Ion](https://x.com/ShieldifySec/status/1785231013376876595) | 1M | [Open](./reports/competitions/ion.md) | Lending/Borrowing |   Sheldify | 🥇 place, the only valid M |
-| 6.  | 05.2024 | [Convergence](https://x.com/ShieldifySec/status/1788133361917034993) | 1M, 1L | [Soon](./reports/competitions/convergence.md) | Yield, Staking |   Hats Finance | 🥇 place|
+| 6.  | 05.2024 | [Convergence](https://x.com/ShieldifySec/status/1788133361917034993) | 1M, 1L | [Open](./reports/competitions/convergence.md) | Yield, Staking |   Hats Finance | 🥇 place|
 | 5.  | 04.2024 | [Posseum](https://x.com/ShieldifySec/status/1788133361917034993) | 1H, 1L | [Open](./reports/competitions/posseum.md) | Yield |   Sheldify | 🥈 place|
 | 4. | 04.2024 | [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | 1M | [Open](./reports/competitions/venus.md)| Cross-chain Governance | Cantina |🥈 place, 100% H/M found |
 | 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  5H, 5M | [Soon]() | Stablecoin | Code4arena| |
