@@ -45,7 +45,7 @@ deth has a proven track record in public contests with multiple top place finish
 |--------|----------|------|-------------|-----------|------|------|------|
 | 14. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
 | 13. | 05.2024 | [Beefy](https://audits.sherlock.xyz/contests/303) | Soon | [Soon]() | CL strategy |  Sherlock | |
-| 12.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | Soon | [Soon]() | Token Distribution |  Code Hawks | |
+| 12.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | 4M | [Open](https://www.codehawks.com/report/clvb9njmy00012dqjyaavpl44) | Token Distribution |  Code Hawks |🥇 place, 100% H/M found |
 | 11. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | 1M | [Soon]() | Staking |  Sherlock | 🥉 place |
 | 10.  | 05.2024 | [Аave](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | 1 L | [Soon](./reports/competitions/aave.md) | 3.1 update |  Cantina | Top 10 |
 | 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | 2H, 1M | [Soon](./reports/competitions/sophon.md) | Staking/Farming |  Sherlock |🥇 place |
