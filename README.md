@@ -35,6 +35,7 @@ deth has a proven track record in public contests with multiple top place finish
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
+| 4. | 06.2024 | [Blaze](https://www.titanblaze.win/) | 1C, 2H, 4M, 10L, 9i | [Open](./reports/Blaze.pdf) | Game-fi, Staking |
 | 3. | 04.2024 | [Trotel Coin V2](https://www.trotelcoin.com/) | 1C, 1H, 3M, 10L, 1i        |[Open](./reports/Trotel-coin-v2.pdf) | Game-fi, Staking | 
 | 2. | 04.2024 | [Trotel Coin V1](https://www.trotelcoin.com/) | 4C , 1H, 1M , 1L           |[Open](./reports/Trotel-coin-v1.pdf) | Game-fi, Staking | 
 | 1. | 03.2024 | [Lambdalf ERC Ethereum Contracts](https://github.com/lambdalf-dev/ethereum-contracts) | 1H , 3M , 2L |[Open](./reports/Lambdalf-contracts.pdf) | ERC721, ERC1155 library | 
