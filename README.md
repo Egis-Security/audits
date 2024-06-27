@@ -44,18 +44,17 @@ deth has a proven track record in public contests with multiple top place finish
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-| 14. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
-| 13. | 05.2024 | [Beefy](https://audits.sherlock.xyz/contests/303) | Soon | [Soon]() | CL strategy |  Sherlock | |
+| 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
 | 12.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | 4M | [Open](https://www.codehawks.com/report/clvb9njmy00012dqjyaavpl44) | Token Distribution |  Code Hawks |🥇 place, 100% H/M found |
-| 11. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | 1M | [Soon]() | Staking |  Sherlock | 🥉 place |
+| 11. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | 1M | [Open](https://audits.sherlock.xyz/contests/330/report) | Staking |  Sherlock | 🥉 place |
 | 10.  | 05.2024 | [Аave](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | 1 L | [Soon](./reports/competitions/aave.md) | 3.1 update |  Cantina | Top 10 |
-| 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | 2H, 1M | [Soon](./reports/competitions/sophon.md) | Staking/Farming |  Sherlock |🥇 place |
+| 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | 2H, 1M | [Open](https://audits.sherlock.xyz/contests/376/report) | Staking/Farming |  Sherlock |🥇 place |
 | 8.  | 05.2024 | [Optimism](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | 2 М | [Soon](./reports/competitions/optimism.md) | Gnosis Safe Integration |  Cantina | Тop 10 |
 | 7.  | 05.2024 | [Ion](https://x.com/ShieldifySec/status/1785231013376876595) | 1M | [Open](./reports/competitions/ion.md) | Lending/Borrowing |   Sheldify | 🥇 place, the only valid M |
 | 6.  | 05.2024 | [Convergence](https://x.com/ShieldifySec/status/1788133361917034993) | 1M, 1L | [Open](./reports/competitions/convergence.md) | Yield, Staking |   Hats Finance | 🥇 place|
 | 5.  | 04.2024 | [Posseum](https://x.com/ShieldifySec/status/1788133361917034993) | 1H, 1L | [Open](./reports/competitions/posseum.md) | Yield |   Sheldify | 🥈 place|
 | 4. | 04.2024 | [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | 1M | [Open](./reports/competitions/venus.md)| Cross-chain Governance | Cantina |🥈 place, 100% H/M found |
-| 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  5H, 5M | [Soon]() | Stablecoin | Code4arena| |
+| 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  5H, 5M | [Open](https://code4rena.com/reports/2024-04-dyad) | Stablecoin | Code4arena| |
 | 2. | 04.2024 | [Teller](https://audits.sherlock.xyz/contests/295) | 10H, 6M | [Open](https://audits.sherlock.xyz/contests/295/report)| Lending/Borrowing | Sherlock| 🥇 place 10/12 H's found |
 | 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | 4th place|
 
