@@ -7,7 +7,7 @@
 
 We are a team of experienced smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols.
 
-Both members of [Egis Security](https://twitter.com/EgisSec) have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 100 High/Medium severity vulnerabilities, with >$70,000 in winnings.
+Both members of [Egis Security](https://twitter.com/EgisSec) have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 120 High/Medium severity vulnerabilities, with >$70,000 in winnings.
 
 ## Book us
 
@@ -35,6 +35,7 @@ deth has a proven track record in public contests with multiple top place finish
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
+| 5. | 06.2024 | [Sablier V2 Mitigation](https://sablier.com/) | 1M, 2L, 1i | [Open](./reports/Sablier.pdf) | Token Distribution |
 | 4. | 06.2024 | [Blaze](https://www.titanblaze.win/) | 1C, 2H, 4M, 10L, 9i | [Open](./reports/Blaze.pdf) | Game-fi, Staking |
 | 3. | 04.2024 | [Trotel Coin V2](https://www.trotelcoin.com/) | 1C, 1H, 3M, 10L, 1i        |[Open](./reports/Trotel-coin-v2.pdf) | Game-fi, Staking | 
 | 2. | 04.2024 | [Trotel Coin V1](https://www.trotelcoin.com/) | 4C , 1H, 1M , 1L           |[Open](./reports/Trotel-coin-v1.pdf) | Game-fi, Staking | 
@@ -47,7 +48,7 @@ deth has a proven track record in public contests with multiple top place finish
 | 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | Soon | [Soon]() | No-code token framework |  Hats | |
 | 12.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | 4M | [Open](https://www.codehawks.com/report/clvb9njmy00012dqjyaavpl44) | Token Distribution |  Code Hawks |🥇 place, 100% H/M found |
 | 11. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | 1M | [Open](https://audits.sherlock.xyz/contests/330/report) | Staking |  Sherlock | 🥉 place |
-| 10.  | 05.2024 | [Аave](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | 1 L | [Soon](./reports/competitions/aave.md) | 3.1 update |  Cantina | Top 10 |
+| 10.  | 05.2024 | [Аave](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | 1 L | [Open](./reports/competitions/aave.md) | 3.1 update |  Cantina | Top 10 |
 | 9.  | 05.2024 | [Sophon](https://audits.sherlock.xyz/contests/376) | 2H, 1M | [Open](https://audits.sherlock.xyz/contests/376/report) | Staking/Farming |  Sherlock |🥇 place |
 | 8.  | 05.2024 | [Optimism](https://cantina.xyz/competitions/d47f8096-8858-437d-a9f5-2fe85ac9b95e) | 2 М | [Soon](./reports/competitions/optimism.md) | Gnosis Safe Integration |  Cantina | Тop 10 |
 | 7.  | 05.2024 | [Ion](https://x.com/ShieldifySec/status/1785231013376876595) | 1M | [Open](./reports/competitions/ion.md) | Lending/Borrowing |   Sheldify | 🥇 place, the only valid M |
