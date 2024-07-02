@@ -35,7 +35,7 @@ deth has a proven track record in public contests with multiple top place finish
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
-| 5. | 06.2024 | [Sablier V2 Mitigation](https://sablier.com/) | 1M, 2L, 1i | [Open](./reports/Sablier.pdf) | Token Distribution |
+| 5. | 06.2024 | [Sablier V2 Mitigation](https://sablier.com/) | 1M, 2L, 1i | [Open](./reports/SablierMitigation.pdf) | Token Distribution |
 | 4. | 06.2024 | [Blaze](https://www.titanblaze.win/) | 1C, 2H, 4M, 10L, 9i | [Open](./reports/Blaze.pdf) | Game-fi, Staking |
 | 3. | 04.2024 | [Trotel Coin V2](https://www.trotelcoin.com/) | 1C, 1H, 3M, 10L, 1i        |[Open](./reports/Trotel-coin-v2.pdf) | Game-fi, Staking | 
 | 2. | 04.2024 | [Trotel Coin V1](https://www.trotelcoin.com/) | 4C , 1H, 1M , 1L           |[Open](./reports/Trotel-coin-v1.pdf) | Game-fi, Staking | 
