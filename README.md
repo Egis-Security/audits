@@ -7,7 +7,7 @@
 
 We are a team of experienced smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols.
 
-Both members of [Egis Security](https://twitter.com/EgisSec) have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 120 High/Medium severity vulnerabilities, with >$70,000 in winnings.
+Both members of [Egis Security](https://twitter.com/EgisSec) have a proven track record on public auditing platforms such as Code4rena, Sherlock & Codehawks, uncovering more than 120 High/Medium severity vulnerabilities, with ~$100,000 in winnings.
 
 ## Book us
 
