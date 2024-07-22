@@ -35,7 +35,7 @@ deth has a proven track record in public contests with multiple top place finish
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
-| 6. | 07.2024 | [Inferno]([https://sablier.com/](https://docs.inferno.win/inferno)) | 4M, 4L, 6i | [Open](./reports/Inferno.pdf) | ERC20, BuyAndBurn |
+| 6. | 07.2024 | [Inferno](https://docs.inferno.win/inferno) | 4M, 4L, 6i | [Open](./reports/Inferno.pdf) | ERC20, BuyAndBurn |
 | 5. | 06.2024 | [Sablier V2 Mitigation](https://sablier.com/) | 1M, 2L, 1i | [Open](./reports/SablierMitigation.pdf) | Token Distribution |
 | 4. | 06.2024 | [Blaze](https://www.titanblaze.win/) | 1C, 2H, 4M, 10L, 9i | [Open](./reports/Blaze.pdf) | Game-fi, Staking |
 | 3. | 04.2024 | [Trotel Coin V2](https://www.trotelcoin.com/) | 1C, 1H, 3M, 10L, 1i        |[Open](./reports/Trotel-coin-v2.pdf) | Game-fi, Staking | 
