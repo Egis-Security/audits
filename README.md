@@ -62,44 +62,19 @@ deth has a proven track record in public contests with multiple top place finish
 | 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | 4th place|
 
 
-### Members Individual Work
+### Members Individual Work - [nmirchev8](https://github.com/NicolaMirchev/audits) | [death](https://github.com/0xdeth)
 
-#### nmirchev8
 
-| Date    | Findings                   | Protocol                                            | 
-|---------|----------------------------|-----------------------------------------------------|
-| 02.2024 | 1H      | [MorpheusAI](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/morpheusAi.md)     | 
-| 01.2024 |  2H, 2M          | [Decent](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/decent.md)     | 
-| 01.2024 | 1H          | [Opus](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/opus.md) | 
-| 12.2023 | 2M , 1L     | [The Standard](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/theStandard.md) | 
-| 12.2023 | 4M          | [Revolution](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/revolution.md) | 
-| 12.2023 | 2H, 2M      | [Ethereum Credit Guild](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/creditGuild.md) | 
-| 11.2023 | 1M          | [Kelp DAO](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/KelpDao.md) | 
-| 10.2023 | 3M          | [Open Dollar](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/opendollar.md) | 
-| 09.2023 | 1M          | [Centifuge](https://github.com/NicolaMirchev/audits/blob/main/contests/codearena/centifuge.md) | 
-| 08.2023 | 1H, 1M      | [Cooler Update](https://github.com/NicolaMirchev/audits/blob/main/contests/sherlock/cooler.md) | 
-| 08.2023 | 1H, 1M, 2L  | [SparkN](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/sparkn.md) | 
-| 07.2023 | 2H, 2L      | [BeedleFi](https://github.com/NicolaMirchev/audits/blob/main/contests/codehawks/beedlefi.md) | 
+---
 
-#### deth
+## Community about us
 
-| Date    | Findings                   | Report                                              | 
-|---------|----------------------------|-----------------------------------------------------|
-| 02.2024 | 1H      | [Arcadia](https://audits.sherlock.xyz/contests/137)     |
-| 01.2024 | 3H, 1M          | [Decent](https://code4rena.com/audits/2024-01-decent#top)     |
-| 12.2023 | 1M               | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top) | 
-| 12.2023 | 6M               | [Revolution](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 
-| 11.2023 | 1H, 2M           | [Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) | 
-| 11.2023 | 4M               | [Party DAO](https://code4rena.com/contests/2023-10-party-protocol#top) | 
-| 10.2023 | 2H, 2M           | [Wildcat Protocol](https://code4rena.com/contests/2023-10-the-wildcat-protocol#top) | 
-| 10.2023 | 1H               | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | 
-| 09.2023 | 3M               | [AlloV2](https://audits.sherlock.xyz/contests/109) | 
-| 09.2023 | 1M               | [Centrifuge](https://code4rena.com/reports/2023-09-centrifuge) | 
-| 08.2023 | 1H, 1M           | [Cooler Update](https://audits.sherlock.xyz/contests/107) | 
-| 08.2023 |  2M           | [SparkN](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
-| 07.2023 | 4H, 4M           | [BeedleFi](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) | 
-| 07.2023 | 1M           | [Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) | 
-
+<p align="center">
+    <img src="community_collage_1.png" alt="Egis Security Banner">
+</p>
+<p align="center">
+    <img src="community_collage_2.png" alt="Egis Security Banner">
+</p>
 
 
 
