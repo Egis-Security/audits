@@ -60,7 +60,7 @@ deth has a proven track record in public contests with multiple top place finish
 | 4. | 04.2024 | [Venus](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | 1M | [Open](./reports/competitions/venus.md)| Cross-chain Governance | Cantina |🥈 place, 100% H/M found |
 | 3. | 04.2024 | [Dyad](https://code4rena.com/audits/2024-04-dyad#top) |  5H, 5M | [Open](https://code4rena.com/reports/2024-04-dyad) | Stablecoin | Code4arena| Top 20 |
 | 2. | 04.2024 | [Teller](https://audits.sherlock.xyz/contests/295) | 10H, 6M | [Open](https://audits.sherlock.xyz/contests/295/report)| Lending/Borrowing | Sherlock| 🥇 place 10/12 H's found |
-| 1. | 03.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | 4th place|
+| 1. | 04.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Soon]() | SocialFi | Cantina | 4th place|
 
 
 ### Members Individual Work - [nmirchev8](https://github.com/NicolaMirchev/audits) | [death](https://github.com/0xdeth)
