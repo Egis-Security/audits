@@ -35,7 +35,6 @@ deth has a proven track record in public contests with multiple top place finish
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
-| 7. | 08.2024 | Undisclosed | --- | --- | --- |
 | 6. | 07.2024 | [Inferno](https://docs.inferno.win/inferno) | 4M, 4L, 6i | [Open](./reports/Inferno.pdf) | ERC20, BuyAndBurn |
 | 5. | 06.2024 | [Sablier V2 Mitigation](https://sablier.com/) | 1M, 2L, 1i | [Open](./reports/SablierMitigation.pdf) | Token Distribution |
 | 4. | 06.2024 | [Blaze](https://www.titanblaze.win/) | 1C, 2H, 4M, 10L, 9i | [Open](./reports/Blaze.pdf) | Game-fi, Staking |
@@ -47,9 +46,9 @@ deth has a proven track record in public contests with multiple top place finish
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-| 15. | 07.2024 | [Chainlink CCIP](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | 1M, 4L | [Soon]() | Cross-chain | Code Hawks | 🥈 place, Best coverage overall|
-| 14. | 06.2024 | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards) | 2M | [Soon]() | Account Abstraction | Hats | 🥈 place |
-| 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | 7M, 6L | [Soon]() | No-code token framework |  Hats | 🥇 place |
+| 15. | 07.2024 | [Chainlink CCIP](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | 1M, 4L | Private | Cross-chain | Code Hawks | 🥈 place, Best coverage overall|
+| 14. | 06.2024 | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards) | 2M | [Open](https://github.com/hats-finance/Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/labels/medium) | Account Abstraction | Hats | 🥈 place |
+| 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | 7M, 6L | [Open](https://github.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/labels/medium) | No-code token framework |  Hats | 🥇 place |
 | 12.  | 05.2024 | [Sablier](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44) | 4M | [Open](https://www.codehawks.com/report/clvb9njmy00012dqjyaavpl44) | Token Distribution |  Code Hawks |🥇 place, 100% H/M found |
 | 11. | 05.2024 | [Gama](https://audits.sherlock.xyz/contests/330) | 1M | [Open](https://audits.sherlock.xyz/contests/330/report) | Staking |  Sherlock | 🥉 place |
 | 10.  | 05.2024 | [Аave](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2) | 1 L | [Open](./reports/competitions/aave.md) | 3.1 update |  Cantina | Top 10 |
