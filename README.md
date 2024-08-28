@@ -47,7 +47,7 @@ deth has a proven track record in public contests with multiple top place finish
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
 | 17. | 08.2024 | [Sentiment V2](https://audits.sherlock.xyz/contests/349) | Soon | Soon | Lending/Borrowing | Shrelock | |
-| 16. | 07.2024 | [Basin](https://code4rena.com/audits/2024-07-basin) | Soon | Soon | Stableswap | Code4rena | 🥇 place |
+| 16. | 07.2024 | [Basin](https://code4rena.com/audits/2024-07-basin) | 1H, 2M | Soon | Stableswap | Code4rena | 🥇 place |
 | 15. | 07.2024 | [Chainlink CCIP](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | 1M, 4L | Private | Cross-chain | Code Hawks | 🥈 place, Best coverage overall|
 | 14. | 06.2024 | [Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/rewards) | 2M | [Open](https://github.com/hats-finance/Palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/labels/medium) | Account Abstraction | Hats | 🥈 place |
 | 13. | 06.2024 | [Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/rewards) | 7M, 6L | [Open](https://github.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/labels/medium) | No-code token framework |  Hats | 🥇 place |
