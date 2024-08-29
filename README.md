@@ -65,7 +65,7 @@ deth has a proven track record in public contests with multiple top place finish
 | 1. | 04.2024| [Goat Finance](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)|  5M, 6H | [Open](https://cantina.xyz/portfolio/404911dd-3a50-4b63-90d4-e0b9164a34a5) | SocialFi | Cantina | 4th place|
 
 
-### Members Individual Work - [nmirchev8](https://github.com/NicolaMirchev/audits) | [death](https://github.com/0xdeth)
+### Members Individual Work - [nmirchev8](https://github.com/NicolaMirchev/audits) | [deth](https://github.com/0xdeth)
 
 
 ---
