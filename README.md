@@ -46,7 +46,7 @@ deth has a proven track record in public contests with multiple top place finish
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-| 18. | 08.2024 | [Basin Mitigation](https://code4rena.com/audits/2024-08-basin-invitational) | Soon | Soon | Stableswap | Code4rena |  |
+| 18. | 08.2024 | [Basin Mitigation](https://code4rena.com/audits/2024-08-basin-invitational) | 1 М | Private | Stableswap | Code4rena | 🥇 place |
 | 17. | 08.2024 | [Sentiment V2](https://audits.sherlock.xyz/contests/349) | Soon | Soon | Lending/Borrowing | Shrelock | |
 | 16. | 07.2024 | [Basin](https://code4rena.com/audits/2024-07-basin) | 1H, 2M | Soon | Stableswap | Code4rena | 🥇 place |
 | 15. | 07.2024 | [Chainlink CCIP](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | 1M, 4L | Private | Cross-chain | Code Hawks | 🥈 place, Best coverage overall|
