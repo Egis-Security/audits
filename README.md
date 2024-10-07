@@ -19,17 +19,9 @@ If you are looking for experienced smart contract auditors to secure your protoc
 
 #### We offer both fixed pay and pay-per-vulnerability security reviews.
 
-### [nmirchev8](https://twitter.com/nmirchev8) - Security Researcher
-
-nmirchev8 is an experienced smart contract security researcher, who has contributed to the security of various protocols through public contests, and private security reviews with firms such as Guardian Audits and has conducted several solo audits.
-
----
-
-### [deth](https://twitter.com/dethSCA) - Security Researcher
-
-deth has a proven track record in public contests with multiple top place finishes on both Code4rena, Sherlock, and Codehawks. He has reported several live security vulnerabilities on both Immunefi and Hats.
-
----
+### Core Team 
+- [nmirchev8](https://twitter.com/nmirchev8) - Founder & Security Researcher
+- [deth](https://twitter.com/dethSCA) - Founder & Security Researcher
 
 ## Our Work
 ### Private Engagements
