@@ -35,7 +35,8 @@ deth has a proven track record in public contests with multiple top place finish
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
-| 10. | 10.2024 | [Soon](Soon) | Soon | Soon | Soon |
+| 11. | 10.2024 | [Soon](Soon) | Soon | Soon | Soon |
+| 10. | 10.2024 | [Element280](https://docs.helios-hlx.win/element280) | 1C, 1H, 2M, 3L, 13i | [Open](./reports/Element280.pdf) | Auction, ERC20, BuyAndBurn |
 | 9. | 09.2024 | [Convergence](https://x.com/Convergence_fi) | 2M, 5L, 7i | [Open](./reports/Convergence.pdf) | Staking |
 | 8. | 09.2024 | [Volt](https://docs.volt.win/) | 1H, 7L, 1i | [Open](./reports/Volt.pdf) | ERC20, Auction |
 | 7. | 09.2024 | [Flux](https://flare-4.gitbook.io/flux-protocol) | 1C, 3M, 10L, 4i | [Open](./reports/Flux.pdf) | ERC20, Staking, Auction |
