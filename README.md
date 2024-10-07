@@ -20,8 +20,8 @@ If you are looking for experienced smart contract auditors to secure your protoc
 #### We offer both fixed pay and pay-per-vulnerability security reviews.
 
 ### Core Team 
-- [nmirchev8](https://twitter.com/nmirchev8) - Founder & Security Researcher
-- [deth](https://twitter.com/dethSCA) - Founder & Security Researcher
+- [nmirchev8](https://twitter.com/nmirchev8) - Founder & Lead Security Researcher
+- [deth](https://twitter.com/dethSCA) - Founder & Lead Security Researcher
 
 ## Our Work
 ### Private Engagements
