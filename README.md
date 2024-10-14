@@ -27,7 +27,8 @@ If you are looking for experienced smart contract auditors to secure your protoc
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
-| 11. | 10.2024 | [Soon](Soon) | Soon | Soon | Soon |
+| 12. | 10.2024 | [Soon](Soon) | Soon | [Soon]() | Soon |
+| 11. | 10.2024 | [Lotus](https://x.com/LotusXDeFi) | 2H, 4M, 3L, 8i | [Open](./reports/Lotus.pdf) | Auction, ERC20, Staking |
 | 10. | 10.2024 | [Element280](https://docs.helios-hlx.win/element280) | 1C, 1H, 2M, 3L, 13i | [Open](./reports/Element280.pdf) | Auction, ERC20, BuyAndBurn |
 | 9. | 09.2024 | [Convergence](https://x.com/Convergence_fi) | 2M, 5L, 7i | [Open](./reports/Convergence.pdf) | Staking |
 | 8. | 09.2024 | [Volt](https://docs.volt.win/) | 1H, 7L, 1i | [Open](./reports/Volt.pdf) | ERC20, Auction |
