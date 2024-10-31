@@ -3,7 +3,7 @@
     <img src="egis_banner.png" alt="Egis Security Banner">
 </p>
 
-## About us
+## About us - [Website](https://www.egissec.com/)
 
 We are a team of experienced smart contract researchers, who strive to provide the best smart contract security services possible to DeFi protocols.
 
