@@ -17,7 +17,6 @@ If you are looking for experienced smart contract auditors to secure your protoc
 - [**Telegram**](https://t.me/dethSCA)
 - [**Discord**](https://discordapp.com/users/348387992974393355)
 
-#### We offer both fixed pay and pay-per-vulnerability security reviews.
 
 ### Core Team 
 - [nmirchev8](https://twitter.com/nmirchev8) - Founder & Lead Security Researcher
