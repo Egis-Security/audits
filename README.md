@@ -28,7 +28,7 @@ If you are looking for experienced smart contract auditors to secure your protoc
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
 | 16. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
 | 15. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
-| 14. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
+| 14. | 11.2024 | [Eden](https://eden-2.gitbook.io/eden) | 2M, 1L | [Open](./reports/Eden.pdf) | Auction, ERC20, Staking |
 | 13. | 11.2024 | [Element369](https://docs.helios-hlx.win/element-369/) | 2H, 2M, 2L, 1i | [Open](./reports/Element369.pdf) | Reward Distribution, NFT |
 | 12. | 10.2024 | [Vyper](None) | 2M, 4L, 4i | [Open](./reports/Vyper.pdf) | Auction, ERC20 |
 | 11. | 10.2024 | [Lotus](https://x.com/LotusXDeFi) | 2H, 4M, 3L, 8i | [Open](./reports/Lotus.pdf) | Auction, ERC20, Staking |
