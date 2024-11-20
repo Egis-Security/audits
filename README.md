@@ -26,6 +26,8 @@ If you are looking for experienced smart contract auditors to secure your protoc
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
+| 16. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
+| 15. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
 | 14. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
 | 13. | 11.2024 | [Element369](https://docs.helios-hlx.win/element-369/) | 2H, 2M, 2L, 1i | [Open](./reports/Element369.pdf) | Reward Distribution, NFT |
 | 12. | 10.2024 | [Vyper](None) | 2M, 4L, 4i | [Open](./reports/Vyper.pdf) | Auction, ERC20 |
@@ -45,7 +47,7 @@ If you are looking for experienced smart contract auditors to secure your protoc
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
-| 20. | 11.2024 | [C4 Invitational](https://code4rena.com/audits/2024-10-audit-459-invitational) | Soon | Soon | ERC20 | Code4rena |  |
+| 20. | 11.2024 | [C4 Invitational](https://code4rena.com/audits/2024-10-audit-459-invitational) | 2H, 1M | Private | ERC20, Yield | Code4rena | 4th place |
 | 19. | 10.2024 | [Ulti Invitational](https://code4rena.com/audits/2024-08-basin-invitational) | Soon | Soon | ERC20 | Code4rena | 🥈 place |
 | 18. | 08.2024 | [Basin Mitigation](https://code4rena.com/audits/2024-08-basin-invitational) | 1 М | Soon | Stableswap | Code4rena | 🥇 place |
 | 17. | 08.2024 | [Sentiment V2](https://audits.sherlock.xyz/contests/349) | 1H, 8M | [Open](https://audits.sherlock.xyz/contests/349?filter=results) | Lending/Borrowing | Shrelock | |
