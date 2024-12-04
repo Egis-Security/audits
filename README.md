@@ -26,6 +26,7 @@ If you are looking for experienced smart contract auditors to secure your protoc
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
+| 17. | 12.2024 | [Scale Bnb](None) | 1M, 2L, 3i | [Open](./reports/ScaleBnb.pdf) | BuyAndBurn |
 | 16. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
 | 15. | 11.2024 | [Soon](Soon) | Soon | Soon | Soon |
 | 14. | 11.2024 | [Eden](https://eden-2.gitbook.io/eden) | 2M, 1L | [Open](./reports/Eden.pdf) | Auction, ERC20, Staking |
