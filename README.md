@@ -27,11 +27,11 @@ If you are looking for experienced smart contract auditors to secure your protoc
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
 | 21. | 01.2025 | [Soon](Soon) | Soon | Soon | Soon |
-| 20. | 01.2025 | [Soon](Soon) | Soon | Soon | Soon |
+| 20. | 01.2025 | [SIR-Trading](https://docs.sir.trading/) | 3H, 2M, 2L | [Open](./reports/SIR-Trading.pdf) | Constant Leverage |
 | 19. | 12.2024 | [Scale Bnb](None) | 1M, 2L, 3i | [Open](./reports/ScaleBnb.pdf) | BuyAndBurn |
-| 18. | 11.2024 | [Wassabi - SVM](Soon) | Soon | Soon | Soon |
-| 17. | 11.2024 | [Wassabi - EVM](Soon) | Soon | Soon | Soon |
-| 16. | 11.2024 | [JuiceBox - V4](Soon) | 11H, 20M | Soon | Soon |
+| 18. | 11.2024 | [Wassabi - SVM (with Sherlock)](Soon) | 6H, 10M | Soon | Leverage, Perp |
+| 17. | 11.2024 | [Wassabi - EVM (with Sherlock)](Soon) | 8M | Soon | Leverage, Perp |
+| 16. | 11.2024 | [JuiceBox - V4](Soon) | 11H, 20M | Soon | Fundraise, DAO |
 | 15. | 11.2024 | [Scale](https://zibars-organization.gitbook.io/scale) | 2H, 1M, 7L, 6i | [Open](./reports/Scale.pdf) | Reflection ERC20 |
 | 14. | 11.2024 | [Eden](https://eden-2.gitbook.io/eden) | 2M, 1L | [Open](./reports/Eden.pdf) | Auction, ERC20, Staking |
 | 13. | 11.2024 | [Element369](https://docs.helios-hlx.win/element-369/) | 2H, 2M, 2L, 1i | [Open](./reports/Element369.pdf) | Reward Distribution, NFT |
