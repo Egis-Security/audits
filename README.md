@@ -26,7 +26,7 @@ If you are looking for experienced smart contract auditors to secure your protoc
 ### Private Engagements
 | №  | Date    |  Protocol                                      | Findings                   | Report     |     Type |
 |--- |---------|-----------------------------------------------|-----------------------------|------------|----------|
-| 22. | 02.2025 | [Soon](Soon) | Soon | Soon | Soon |
+| 22. | 02.2025 | [Siloed Pinto]() | 1M, 3L, 2i | [Open](./reports/SiloedPinto.pdf) | ERC4626 vault |
 | 21. | 01.2025 | [DAOS.FUN](https://www.daos.fun/) | Private | Private | Fundraise, DAO |
 | 20. | 01.2025 | [SIR-Trading](https://docs.sir.trading/) | 3H, 2M, 2L | [Open](./reports/SIR-Trading.pdf) | Constant Leverage |
 | 19. | 12.2024 | [Scale Bnb](None) | 1M, 2L, 3i | [Open](./reports/ScaleBnb.pdf) | BuyAndBurn |
