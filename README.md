@@ -30,8 +30,8 @@ If you are looking for experienced smart contract auditors to secure your protoc
 | 21. | 01.2025 | [DAOS.FUN](https://www.daos.fun/) | Private | Private | Fundraise, DAO |
 | 20. | 01.2025 | [SIR-Trading](https://docs.sir.trading/) | 3H, 2M, 2L | [Open](./reports/SIR-Trading.pdf) | Constant Leverage |
 | 19. | 12.2024 | [Scale Bnb](None) | 1M, 2L, 3i | [Open](./reports/ScaleBnb.pdf) | BuyAndBurn |
-| 18. | 11.2024 | [Wassabi - SVM (with Sherlock)](Soon) | 6H, 10M | Soon | Leverage, Perp |
-| 17. | 11.2024 | [Wassabi - EVM (with Sherlock)](Soon) | 8M | Soon | Leverage, Perp |
+| 18. | 11.2024 | [Wassabi - SVM (with Sherlock)](Soon) | 6H, 10M | [Open](https://wasabi-public.s3.us-east-1.amazonaws.com/audits/v1/Wasabi_Perps_Solana_Audit_Sherlock.pdf) | Leverage, Perp |
+| 17. | 11.2024 | [Wassabi - EVM (with Sherlock)](Soon) | 8M | [Open](https://wasabi-public.s3.us-east-1.amazonaws.com/audits/v1/Wasabi_Perps_EVM_Audit_Sherlock.pdf) | Leverage, Perp |
 | 16. | 11.2024 | [JuiceBox - V4](https://juicebox.money/) | 11H, 20M | [Open](https://github.com/TheSyntegrity/Juicebox_V4_Findings/issues?q=is%3Aissue%20state%3Aclosed) | Fundraise, DAO |
 | 15. | 11.2024 | [Scale](https://zibars-organization.gitbook.io/scale) | 2H, 1M, 7L, 6i | [Open](./reports/Scale.pdf) | Reflection ERC20 |
 | 14. | 11.2024 | [Eden](https://eden-2.gitbook.io/eden) | 2M, 1L | [Open](./reports/Eden.pdf) | Auction, ERC20, Staking |
