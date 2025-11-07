@@ -53,6 +53,7 @@ If you are looking for experienced smart contract auditors to secure your protoc
 
 | № | Date | Protocol |  Findings | Report | Type | Competition Platform | More Details |
 |--------|----------|------|-------------|-----------|------|------|------|
+| 24. | 09.2025 | [Summer-fi](https://audits.sherlock.xyz/contests/1176) | 2M | [Open](https://audits.sherlock.xyz/contests/1176/report) | Cross-chain Gov | Sherlock | 🥈 place |
 | 23. | 07.2025 | [Allbridge](https://audits.sherlock.xyz/contests/1051) | 2M | [Open](https://audits.sherlock.xyz/contests/1051) | Multi token, yield | Sherlock | 🥇 place, 100% Coverage |
 | 22. | 06.2025 | [Dodo - Cross chain](https://audits.sherlock.xyz/contests/991) | 3H, 7M | [Open](https://audits.sherlock.xyz/contests/991) | DEX, Cross-chain | Sherlock | Participated as LSW |
 | 21. | 03.2025 | [Stealth](https://audits.sherlock.xyz/contests/845?filter=results) | 1M | Private | SVM, Cross-chain governance | Code4rena | 🥇 place, 100% H/M found |
